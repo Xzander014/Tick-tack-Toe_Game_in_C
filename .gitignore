@@ -1,0 +1,23 @@
+# Ignore compiled files
+*.exe
+*.o
+*.out
+
+# Ignore build directories
+/build/
+/bin/
+
+# Ignore log files
+*.log
+
+# Ignore environment-specific files
+.env
+.env.local
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
